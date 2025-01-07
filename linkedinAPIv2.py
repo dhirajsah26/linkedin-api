@@ -87,7 +87,7 @@ def main():
     messenger = LinkedInMessenger(USERNAME, PASSWORD)
     
     # Example message template
-    message_template = """Hi {first_name},\n\nWishing you a very Happy New Year 2025, filled with love, laughter, peace, prosperiety and success. \n\nBest Wishes,\nDhiraj Sah"""
+    message_template = """TEXT"""
     
     messenger.send_bulk_messages(
         message_template=message_template,
