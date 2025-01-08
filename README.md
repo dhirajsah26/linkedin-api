@@ -2,6 +2,8 @@
 
 This project automates the process of sending personalized messages to your first-degree LinkedIn connections using Python. The script allows you to send bulk messages with a custom template, personalize them with the recipient's first name, and store the first names in an Excel sheet for future reference.
 
+Here is the LinkedIn post I wrote if you want to follow it :- https://www.linkedin.com/pulse/automating-linkedin-messaging-my-recent-project-dhiraj-sah-qh5yc/?trackingId=PC1VrMfnSxKh0NVEOQVxEg%3D%3D
+
 ## Features
 - Automatically fetches first-degree LinkedIn connections.
 - Sends bulk personalized messages.
