@@ -1,4 +1,4 @@
-LinkedIn Bulk Messaging Automation
+# LinkedIn Bulk Messaging Automation
 
 This project automates the process of sending personalized messages to your first-degree LinkedIn connections using Python. The script allows you to send bulk messages with a custom template, personalize them with the recipient's first name, and store the first names in an Excel sheet for future reference.
 
